@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 I'm currently working on : Building data analytics project (SQL + Power BI + Excel).<br>I'm looking to collaborate on : Real-world dataset and beginner-friendly analytics project.<br>I'm currently learning : Advanced Excel and Power Bi(DAX, dashboard design).<br>Ask me about : MySQL queries, Excel reports and Power Bi dashboards.<br>Fun fact : I enjoy turning raw data into meaningful business insights.  
 
